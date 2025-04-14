@@ -19,11 +19,10 @@ O **ProductsApp** é uma aplicação desenvolvida para gerenciar produtos de for
 
 ## Imagens da Aplicação
 
-![Tela De Login](./images/tela-inicial.png)
-![Cadastro de Usuário](./images/Cadastro.png)
-![Home Page](./images/home_page.png)
-![Backend](./images/backend.png)
-
+![Tela De Login](Image/login.png)
+![Cadastro de Usuário](Image/Cadastro.png)
+![Home Page](Image/home_page.png)
+![Backend](Image/backend.png)
 ## Como Executar
 
 1. Clone o repositório:
