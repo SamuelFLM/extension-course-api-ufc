@@ -1,0 +1,25 @@
+.display-card {
+    display: flex;
+    justify-content: center
+}
+
+.card {
+    margin-top: 50px;
+    padding: 0px 80px 80px 80px;
+    background-color: gray;
+    border: 1px 1px solid black;
+    border-radius: 5px;
+}
+
+
+.card>h1 {
+    text-align: center;
+}
+
+.card>p {
+    color: black;
+}
+
+.card>input {
+    border-radius: 5px;
+}

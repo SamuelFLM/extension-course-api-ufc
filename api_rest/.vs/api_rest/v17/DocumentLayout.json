@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lazer\\OneDrive\\\u00C1rea de Trabalho\\ProductsApp\\api_rest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2986C77-3584-41AA-A64F-B2B121048289}|api_rest\\api_rest.csproj|c:\\users\\lazer\\onedrive\\\u00E1rea de trabalho\\productsapp\\api_rest\\api_rest\\api_rest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E2986C77-3584-41AA-A64F-B2B121048289}|api_rest\\api_rest.csproj|solutionrelative:api_rest\\api_rest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2986C77-3584-41AA-A64F-B2B121048289}|api_rest\\api_rest.csproj|c:\\users\\lazer\\onedrive\\\u00E1rea de trabalho\\productsapp\\api_rest\\api_rest\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2986C77-3584-41AA-A64F-B2B121048289}|api_rest\\api_rest.csproj|solutionrelative:api_rest\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2986C77-3584-41AA-A64F-B2B121048289}|api_rest\\api_rest.csproj|c:\\users\\lazer\\onedrive\\\u00E1rea de trabalho\\productsapp\\api_rest\\api_rest\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2986C77-3584-41AA-A64F-B2B121048289}|api_rest\\api_rest.csproj|solutionrelative:api_rest\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2986C77-3584-41AA-A64F-B2B121048289}|api_rest\\api_rest.csproj|c:\\users\\lazer\\onedrive\\\u00E1rea de trabalho\\productsapp\\api_rest\\api_rest\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2986C77-3584-41AA-A64F-B2B121048289}|api_rest\\api_rest.csproj|solutionrelative:api_rest\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2986C77-3584-41AA-A64F-B2B121048289}|api_rest\\api_rest.csproj|c:\\users\\lazer\\onedrive\\\u00E1rea de trabalho\\productsapp\\api_rest\\api_rest\\communication\\categoryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2986C77-3584-41AA-A64F-B2B121048289}|api_rest\\api_rest.csproj|solutionrelative:api_rest\\communication\\categoryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2986C77-3584-41AA-A64F-B2B121048289}|api_rest\\api_rest.csproj|c:\\users\\lazer\\onedrive\\\u00E1rea de trabalho\\productsapp\\api_rest\\api_rest\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2986C77-3584-41AA-A64F-B2B121048289}|api_rest\\api_rest.csproj|solutionrelative:api_rest\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2986C77-3584-41AA-A64F-B2B121048289}|api_rest\\api_rest.csproj|c:\\users\\lazer\\onedrive\\\u00E1rea de trabalho\\productsapp\\api_rest\\api_rest\\mapping\\resourcetomodelprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2986C77-3584-41AA-A64F-B2B121048289}|api_rest\\api_rest.csproj|solutionrelative:api_rest\\mapping\\resourcetomodelprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2986C77-3584-41AA-A64F-B2B121048289}|api_rest\\api_rest.csproj|c:\\users\\lazer\\onedrive\\\u00E1rea de trabalho\\productsapp\\api_rest\\api_rest\\persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2986C77-3584-41AA-A64F-B2B121048289}|api_rest\\api_rest.csproj|solutionrelative:api_rest\\persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Lazer\\OneDrive\\\u00C1rea de Trabalho\\ProductsApp\\api_rest\\api_rest\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "api_rest\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Lazer\\OneDrive\\\u00C1rea de Trabalho\\ProductsApp\\api_rest\\api_rest\\Controllers\\UserController.cs",
+              "RelativeToolTip": "api_rest\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAmwBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T17:00:07.064Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lazer\\OneDrive\\\u00C1rea de Trabalho\\ProductsApp\\api_rest\\api_rest\\Persistence\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "api_rest\\Persistence\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Lazer\\OneDrive\\\u00C1rea de Trabalho\\ProductsApp\\api_rest\\api_rest\\Persistence\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "api_rest\\Persistence\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T17:30:26.932Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "api_rest",
+              "DocumentMoniker": "C:\\Users\\Lazer\\OneDrive\\\u00C1rea de Trabalho\\ProductsApp\\api_rest\\api_rest\\api_rest.csproj",
+              "RelativeDocumentMoniker": "api_rest\\api_rest.csproj",
+              "ToolTip": "C:\\Users\\Lazer\\OneDrive\\\u00C1rea de Trabalho\\ProductsApp\\api_rest\\api_rest\\api_rest.csproj",
+              "RelativeToolTip": "api_rest\\api_rest.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-14T18:16:37.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Lazer\\OneDrive\\\u00C1rea de Trabalho\\ProductsApp\\api_rest\\api_rest\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "api_rest\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Lazer\\OneDrive\\\u00C1rea de Trabalho\\ProductsApp\\api_rest\\api_rest\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "api_rest\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowDcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T23:55:48.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Lazer\\OneDrive\\\u00C1rea de Trabalho\\ProductsApp\\api_rest\\api_rest\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "api_rest\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Lazer\\OneDrive\\\u00C1rea de Trabalho\\ProductsApp\\api_rest\\api_rest\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "api_rest\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCEAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T20:00:36.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Lazer\\OneDrive\\\u00C1rea de Trabalho\\ProductsApp\\api_rest\\api_rest\\Communication\\CategoryResponse.cs",
+              "RelativeDocumentMoniker": "api_rest\\Communication\\CategoryResponse.cs",
+              "ToolTip": "C:\\Users\\Lazer\\OneDrive\\\u00C1rea de Trabalho\\ProductsApp\\api_rest\\api_rest\\Communication\\CategoryResponse.cs",
+              "RelativeToolTip": "api_rest\\Communication\\CategoryResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T20:00:31.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Lazer\\OneDrive\\\u00C1rea de Trabalho\\ProductsApp\\api_rest\\api_rest\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "api_rest\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Lazer\\OneDrive\\\u00C1rea de Trabalho\\ProductsApp\\api_rest\\api_rest\\Services\\UserService.cs",
+              "RelativeToolTip": "api_rest\\Services\\UserService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAIAzwCEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T17:43:08.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResourceToModelProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Lazer\\OneDrive\\\u00C1rea de Trabalho\\ProductsApp\\api_rest\\api_rest\\Mapping\\ResourceToModelProfile.cs",
+              "RelativeDocumentMoniker": "api_rest\\Mapping\\ResourceToModelProfile.cs",
+              "ToolTip": "C:\\Users\\Lazer\\OneDrive\\\u00C1rea de Trabalho\\ProductsApp\\api_rest\\api_rest\\Mapping\\ResourceToModelProfile.cs",
+              "RelativeToolTip": "api_rest\\Mapping\\ResourceToModelProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T17:34:48.49Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
